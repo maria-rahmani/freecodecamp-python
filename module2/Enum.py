@@ -17,4 +17,3 @@ print(list(zip(x, y)))
 # Another way to use Zip function
 for Id, name in zip(x, y):
     print(Id, "->", name)
-
